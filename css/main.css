@@ -83,3 +83,7 @@ background-image: url("/images/icon-cart.svg");
 .button:is(:hover, :focus) {
   background-color: var(--clr-tertiary);
 }
+
+.footer__text {
+  text-align: center;
+}
