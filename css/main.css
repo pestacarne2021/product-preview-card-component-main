@@ -85,5 +85,8 @@ background-image: url("/images/icon-cart.svg");
 }
 
 .footer__text {
+  color: black;
+  margin-top: 1em;
   text-align: center;
+  text-transform: capitalize;
 }
